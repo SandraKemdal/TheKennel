@@ -1,0 +1,17 @@
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\obj\Debug\net5.0\TheKennel.csproj.AssemblyReference.cache
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\obj\Debug\net5.0\TheKennel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\obj\Debug\net5.0\TheKennel.AssemblyInfoInputs.cache
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\obj\Debug\net5.0\TheKennel.AssemblyInfo.cs
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\obj\Debug\net5.0\TheKennel.csproj.CoreCompileInputs.cache
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\bin\Debug\net5.0\TheKennel.exe
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\bin\Debug\net5.0\TheKennel.deps.json
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\bin\Debug\net5.0\TheKennel.runtimeconfig.json
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\bin\Debug\net5.0\TheKennel.runtimeconfig.dev.json
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\bin\Debug\net5.0\TheKennel.dll
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\bin\Debug\net5.0\ref\TheKennel.dll
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\bin\Debug\net5.0\TheKennel.pdb
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\bin\Debug\net5.0\Autofac.dll
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\obj\Debug\net5.0\TheKennel.dll
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\obj\Debug\net5.0\ref\TheKennel.dll
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\obj\Debug\net5.0\TheKennel.pdb
+C:\Users\skemd\OneDrive\Skrivbord\MINKOPIA\TheKennel\obj\Debug\net5.0\TheKennel.genruntimeconfig.cache

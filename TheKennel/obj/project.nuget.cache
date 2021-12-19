@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5mR6m+BxMKAfEfVKEUC7vEOscbEIIt9boiiOyR9hML/AN/SU3YU7r1o4cyKatWrCzH793xVGwvMXSWCfxwYhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skemd\\OneDrive\\Skrivbord\\Inlamningsuppgift-CodePattern\\TheKennel\\TheKennel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skemd\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\skemd\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
